@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Solrac.iml" filepath="$PROJECT_DIR$/Solrac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SolracDynamite.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SolracDynamite.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SolracHanglider.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SolracHanglider.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SolracHealthKit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SolracHealthKit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SolracMagicWand.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SolracMagicWand.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SolracRandomTP.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SolracRandomTP.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SolracReplanter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SolracReplanter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SolracUnclaimFinder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SolracUnclaimFinder.main.iml" />
+    </modules>
+  </component>
+</project>
