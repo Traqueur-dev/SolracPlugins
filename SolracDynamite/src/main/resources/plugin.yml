@@ -1,0 +1,4 @@
+name: SolracDynamite
+version: '${version}'
+main: fr.traqueur.solrac.SolracDynamite
+api-version: '1.20'

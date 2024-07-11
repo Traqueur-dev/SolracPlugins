@@ -1,0 +1,10 @@
+randomtp:
+  countdown: 10
+  delay: 5
+  message: "Vous devez encore attendre avant de vous téléporter. %countdown%"
+blacklist:
+  limit: 2000
+  xmin: -512
+  xmax: 511
+  zmin: -512
+  zmax: 511

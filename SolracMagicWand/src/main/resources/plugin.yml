@@ -1,0 +1,4 @@
+name: SolracMagicWand
+version: '${version}'
+main: fr.traqueur.solrac.SolracMagicWand
+api-version: '1.20'

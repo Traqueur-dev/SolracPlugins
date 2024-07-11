@@ -1,0 +1,4 @@
+hanglider:
+  material: IRON_HOE
+  custommodeldata: 10000
+  velocity: 0.5

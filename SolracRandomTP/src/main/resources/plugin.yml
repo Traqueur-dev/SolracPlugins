@@ -1,0 +1,9 @@
+name: SolracRandomTP
+version: '${version}'
+main: fr.traqueur.solrac.SolracRandomTP
+api-version: '1.20'
+commands:
+  randomtp:
+    aliases:
+      - "rtp"
+    permission: "solrac.rtp.use"

@@ -1,0 +1,4 @@
+name: SolracReplanter
+version: '${version}'
+main: fr.traqueur.solracreplanter.SolracReplanter
+api-version: '1.20'

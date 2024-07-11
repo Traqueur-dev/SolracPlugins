@@ -1,0 +1,7 @@
+itemwand:
+  material: IRON_HOE
+  custommodeldata: 10009
+  distance: 15
+  delay: 10
+  ticks: 10
+  delay_message: "%countdown% avant la prochaine utilisation."

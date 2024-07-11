@@ -1,0 +1,4 @@
+name: SolracHanglider
+version: '${version}'
+main: fr.traqueur.solrac.SolracHanglider
+api-version: '1.20'

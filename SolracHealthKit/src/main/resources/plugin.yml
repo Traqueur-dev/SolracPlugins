@@ -1,0 +1,4 @@
+name: SolracHealthKit
+version: '${version}'
+main: fr.traqueur.solrac.SolracHealthKit
+api-version: '1.20'
